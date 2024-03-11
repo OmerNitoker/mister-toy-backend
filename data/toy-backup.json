@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Teddy Bear",
+        "price": 100,
+        "_id": "j7ke"
+    },
+    {
+        "name": "Barbie Doll",
+        "price": 120,
+        "_id": "k5gsb"
+    },
+    {
+        "name": "LEGO",
+        "price": 60,
+        "_id": "g3k11"
+    }
+]
